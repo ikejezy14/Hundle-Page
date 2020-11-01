@@ -1,6 +1,6 @@
-@import "./header.css";
-@import "./ilustrator-img.css";
-@import "./info.css";
+@import "header.css";
+@import "ilustrator-img.css";
+@import "info.css";
 :root{
   --violet: hsl(257, 40%, 49%);
 }
